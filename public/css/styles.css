@@ -136,7 +136,7 @@ h3 {
 }
 
 .hero {
-    background-color: #E9ECEF;
+    background-image: linear-gradient(to top, #1c355e, #E9ECEF);
     padding: 80px 0;
 }
 
